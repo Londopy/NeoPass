@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/eefb46a6-c7d1-4b65-b12b-a0aa674b02d0
 ### For Pro Users:
 1. Visit [neopass.fun/pro](https://neopass.fun/pro) to subscribe
 2. Click the extension icon and go to the **Pro** tab
-3. Login with your Pro credentials you have created from the webstie
+3. Login with your Pro credentials you have created from the website
 4. Enjoy hassle-free AI-powered assistance with no configuration needed!
 
 ## ⌨️ Shortcuts
